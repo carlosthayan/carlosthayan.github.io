@@ -7,10 +7,12 @@ website:
   navbar:
     left: 
       - text: "Home"
+        file: index.qmd
       - text: "Porfolio"
+        file: portfolio.qmd
       - text: "CV"
+        file: cv.qmd
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
