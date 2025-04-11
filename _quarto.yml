@@ -3,8 +3,12 @@ project:
   output-dir: "docs"
 
 website:
-  title: "carlosthayan.github.io"
+  title: "carlos thayan"
   navbar:
+    left: 
+      - text: "Home"
+      - text: "Porfolio"
+      - text: "CV"
     right:
       - about.qmd
       - icon: github
