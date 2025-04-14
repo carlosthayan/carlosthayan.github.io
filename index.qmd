@@ -15,4 +15,6 @@ about:
       href: https://github.com
 ---
 
-esta é minha homepage
+Me chamo Carlos Thayan, estudante de Sistemas de Informação na Universidade Federal do Pará. Gosto de tecnologia e agora estatística!
+
+Atualmente, atuo como pesquisador no LAQUIPE (Laboratório de Química do Pescado - UFPA) onde estou aprendendo sobre programação utilizando a linguagem R e o pacote tidyverse.
