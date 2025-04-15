@@ -6,15 +6,18 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/thayan_moreira
+      target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/carlos-thayan-moreira-683303296/
+      target: _blank
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/carlosthayan
+      target: _blank
 ---
 
 Me chamo Carlos Thayan, estudante de Sistemas de Informação na Universidade Federal do Pará. Gosto de tecnologia e agora estatística!
 
-Atualmente, atuo como pesquisador no LAQUIPE (Laboratório de Química do Pescado - UFPA) onde estou aprendendo sobre programação utilizando a linguagem R e o pacote tidyverse.
+Atualmente pesquisador no LAQUIPE (Laboratório de Química do Pescado - UFPA) onde estou aprendendo sobre programação utilizando a linguagem R e o pacote tidyverse.

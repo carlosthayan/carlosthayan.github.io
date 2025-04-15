@@ -1,0 +1,15 @@
+---
+title: "Primeira postagem"
+author: "Carlos Thayan"
+date: "2025-04-14"
+categories: [news]
+image: "primeiro_post.jpeg"
+---
+
+Essa é minha primeira postagem em meu site/blog. Fiz na intenção de ocupar minha mentede escrever sobre coisas que gosto. Pretendo escrever sobre R e programação.
+
+No momento estou com algumas ideias e anotando as mais interessantes. Acho que a empolgação de fazer algo novo acaba trazendo várias ideias à mente. Bom, seja bem-vindo para me conhecer e ver o que faço. Esse site acima de tudo é minha vida.
+
+Para construir, utilizei Quarto e o GitHub Pages, tive a ajuda de meu professor que me mostrou que o Quarto não se limitava somente a documentos. E sinceramente, me surpreendi bastante com o poder do R.
+
+Reconheço que poderia ter desenvolvido um site utilizando qualquer outra linguagem específica, com as melhores tecnologias ou frameworks disponíveis. Escolhi o R porque é o que utilizo no meu dia a dia e atende às minhas demandas. Não estou buscando criar um site comercial ou algo que atraia milhões de visitantes. Meu objetivo é apenas ter um site simples para que eu possa escrever como hobby, e o [R](https://www.r-project.org/){target="_blank"} **+** [Quarto](https://quarto.org/docs/computations/r.html#output-formats){target="_blank"} me ajudaram com isso.

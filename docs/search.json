@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Carlos Thayan",
     "section": "",
-    "text": "Me chamo Carlos Thayan, estudante de Sistemas de Informação na Universidade Federal do Pará. Gosto de tecnologia e agora estatística!\nAtualmente, atuo como pesquisador no LAQUIPE (Laboratório de Química do Pescado - UFPA), onde estou aprendendo sobre programação utilizando a linguagem R e o pacote tidyverse."
+    "text": "Me chamo Carlos Thayan, estudante de Sistemas de Informação na Universidade Federal do Pará. Gosto de tecnologia e agora estatística!\nAtualmente pesquisador no LAQUIPE (Laboratório de Química do Pescado - UFPA) onde estou aprendendo sobre programação utilizando a linguagem R e o pacote tidyverse."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -32,14 +32,14 @@
     "href": "portfolio.html",
     "title": "Carlos Thayan",
     "section": "",
-    "text": "este é meu portfolio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 7, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Primeira postagem\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 14, 2025\n\n\nCarlos Thayan\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "carlos thayan",
+    "title": "Carlos Thayan",
     "section": "",
-    "text": "este é meu cv\n![](cv-template.pdf)"
+    "text": "em breve."
   },
   {
     "objectID": "index_old.html",
@@ -54,5 +54,12 @@
     "title": "carlos thayan",
     "section": "",
     "text": "Esta é a pagina home"
+  },
+  {
+    "objectID": "posts/bem-vindo/index.html",
+    "href": "posts/bem-vindo/index.html",
+    "title": "Primeira postagem",
+    "section": "",
+    "text": "Essa é minha primeira postagem em meu site/blog. Fiz este blog na intenção de ocupar minha mente, de escrever sobre coisas que gosto. Pretendo escrever sobre R e programação.\nNo momento estou com algumas ideias e anotando as mais interessantes. Acho que a empolgação de fazer algo novo acaba trazendo várias ideias à mente. Bom, seja bem-vindo para me conhecer e ver o que faço. Esse site acima de tudo é minha vida.\nPara construir, utilizei Quarto e o GitHub Pages, tive a ajuda de meu professor que me mostrou que o Quarto não se limitava somente a documentos. E sinceramente, me surpreendi bastante com o poder do R.\nReconheço que poderia ter desenvolvido um site utilizando qualquer outra linguagem específica, com as melhores tecnologias ou frameworks disponíveis. Escolhi o R porque é o que utilizo no meu dia a dia e atende às minhas demandas. Não estou buscando criar um site comercial ou algo que atraia milhões de visitantes. Meu objetivo é apenas ter um site simples para que eu possa escrever como hobby, e o R + Quarto me ajudaram com isso."
   }
 ]
